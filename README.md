@@ -8,7 +8,7 @@
 <h4 align="center">Duncan McDonald</h4>
 <p align="center">
   <a href="https://github.com/McDonaldDu/megans-playroom/archive/master.zip">Download</a> |
-  <a href="https://github.com/McDonaldDu/megans-playroom/blob/master/README.md">About the Project</a>
+  <a href="https://github.com/McDonaldDu/megans-playroom/blob/master/ABOUT.md">About the Project</a>
 </p>
 <hr>
 <p align="center">
