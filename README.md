@@ -7,7 +7,7 @@
 <h4 align="center">by</h4>
 <h4 align="center">Duncan McDonald</h4>
 <p align="center">
-  <a href="https://github.com/McDonaldDu/megans-playroom/archive/master.zip">Download</a> |
+  <a href="https://github.com/McDonaldDu/megans-playroom/archive/master.zip">Download</a>
 
 </p>
 <hr>
